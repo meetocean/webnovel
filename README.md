@@ -61,14 +61,18 @@ soft_novel_create
 ## 写作资料采集
 
 ### 分类快照
-素材分类 1(material-1)
-![alt text](webnovel-ui/novel_material/material-1.png)
+素材分类
 
-素材分类 2(material-3)
-![alt text](webnovel-ui/novel_material/material-2.png)
+图1
+<img src="webnovel-ui/novel_material/material-1.png" align="center" width="480" >
 
-素材分类 3(material-3)
-![alt text](webnovel-ui/novel_material/material-3.png)
+图2
+
+<img src="webnovel-ui/novel_material/material-2.png" align="center" width="480" >
+
+图3
+
+<img src="webnovel-ui/novel_material/material-3.png" align="center" width="480" >
 
 ### 写作资料字数统计
 语言文学：800 万字，有一部分内容是以前的；其中与网文写作直接相关的统计：
@@ -78,13 +82,18 @@ soft_novel_create
 合计大约 700 万字，是在 2017 年与 2018 年这两年收集的。
 
 语言文学 字数统计：
-![alt text](webnovel-ui/novel_material/statistics-1.png)
+
+<img src="webnovel-ui/novel_material/statistics-1.png" align="center" width="480" >
+
 
 文学与写作 字数统计：
-![alt text](webnovel-ui/novel_material/statistics-2.png)
+
+<img src="webnovel-ui/novel_material/statistics-2.png" align="center" width="480" >
 
 网文写作 字数统计：
-![alt text](webnovel-ui/novel_material/statistics-3.png)
+
+<img src="webnovel-ui/novel_material/statistics-3.png" align="center" width="480" >
 
 小说写作 English 版 字数统计：
-![alt text](webnovel-ui/novel_material/statistics-4.png)
+
+<img src="webnovel-ui/novel_material/statistics-4.png" align="center" width="480" >
