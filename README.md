@@ -3,26 +3,28 @@
 
 ## 网文写作理论
 指导网文写作的理论，网文写作知识体系。
+下述图片是写作理论的快照。
 
-### 目的与用途
-整个体系就是解决写作的问题，就是 What，Why，How。
+体系构建(architecture)
+![alt text](webnovel-ui/novel_write_theory/architecture.png)
 
-理论具有通用性，更适合于大多数人参考，所以中规中矩，只要天赋不太差，就能按理论写出中规中矩的小说。美剧和好莱坞电影，都是按理论创作，俗话说就是套路。
+畅销与读者（sell_well_reader）
+![alt text](webnovel-ui/novel_write_theory/sell_well_reader.png)
 
-### 内容构建
-把写作分成两大块，第一部分是网文与长篇小说写作，第二部分是写作基本功(语言文章)。
+大纲（outline）
+![alt text](webnovel-ui/novel_write_theory/outline.png)
 
-从宏观到微观，中西兼顾。
+情节概念（plot concept）
+![alt text](webnovel-ui/novel_write_theory/plot_concept.png)
 
-分类与目录是经过精挑细选的，每个概念都有详细论述，并有实例相配套，每个概念都是多角度多层次的立体解释，减少盲人摸象的片面性理解。
+主线直线（plot_main_thread）
+![alt text](webnovel-ui/novel_write_theory/plot_main_thread.png)
 
-### 原则
-组织写作理论体系时，至少遵守如下原则：
-精中求全，在精挑细选和全面兼顾以及时间分配之间求平衡：
-分类合理，便于管理：
-概念清晰，多角度多层次：
-理论性兼顾可操作性，实例解释：
-渐进式完善：
+写作基本功（technique_narrative）
+![alt text](webnovel-ui/novel_write_theory/technique_narrative.png)
+
+网文案例分析（analysis）
+![alt text](webnovel-ui/novel_write_theory/analysis.png)
 
 ## 网文写作软件
 根据网文写作理论开发的写作软件。
